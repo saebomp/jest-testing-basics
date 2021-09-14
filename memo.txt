@@ -1,0 +1,3 @@
+git init -y
+npm i -D jest
+(open package.json) change the value  -->   "test":"jest"
