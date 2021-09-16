@@ -1,4 +1,4 @@
-// https://www.youtube.com/watch?v=7r4xVDI2vho   15:21
+// https://www.youtube.com/watch?v=7r4xVDI2vho   21:26
 
 const functions = {
     add: (num1, num2) => num1 + num2, 
